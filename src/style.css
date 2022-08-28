@@ -1,1 +1,11 @@
-/* styles go here */
+/* styles go here 
+Vertical distance between inputs should be 10px
+Vertical distance between groups should be 20px*/
+
+.form-field {
+  margin-top: 10px;
+}
+
+.field-box {
+  margin-top: 20px;
+}
