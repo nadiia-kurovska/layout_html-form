@@ -1,7 +1,15 @@
 .form-field {
-  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.field-box > :last-child {
+  margin-bottom: 0;
 }
 
 .field-box {
   margin-top: 20px;
+}
+
+.first-field-box {
+  margin-top: 0;
 }
