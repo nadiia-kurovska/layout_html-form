@@ -1,15 +1,20 @@
-.form-field {
-  margin-bottom: 10px;
-}
-
-.field-box > :last-child {
-  margin-bottom: 0;
-}
-
 .field-box {
   margin-top: 20px;
 }
 
 .first-field-box {
   margin-top: 0;
+}
+
+.field-box > :last-child {
+  margin-bottom: 0;
+}
+
+.submit-button {
+  margin-top: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
 }
